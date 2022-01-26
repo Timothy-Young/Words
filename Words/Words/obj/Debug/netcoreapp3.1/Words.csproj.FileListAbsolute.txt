@@ -1,0 +1,12 @@
+C:\Users\Tim\source\repos\Timothy-Young\Words\Words\Words\bin\Debug\netcoreapp3.1\Words.exe
+C:\Users\Tim\source\repos\Timothy-Young\Words\Words\Words\bin\Debug\netcoreapp3.1\Words.deps.json
+C:\Users\Tim\source\repos\Timothy-Young\Words\Words\Words\bin\Debug\netcoreapp3.1\Words.runtimeconfig.json
+C:\Users\Tim\source\repos\Timothy-Young\Words\Words\Words\bin\Debug\netcoreapp3.1\Words.runtimeconfig.dev.json
+C:\Users\Tim\source\repos\Timothy-Young\Words\Words\Words\bin\Debug\netcoreapp3.1\Words.dll
+C:\Users\Tim\source\repos\Timothy-Young\Words\Words\Words\bin\Debug\netcoreapp3.1\Words.pdb
+C:\Users\Tim\source\repos\Timothy-Young\Words\Words\Words\obj\Debug\netcoreapp3.1\Words.AssemblyInfoInputs.cache
+C:\Users\Tim\source\repos\Timothy-Young\Words\Words\Words\obj\Debug\netcoreapp3.1\Words.AssemblyInfo.cs
+C:\Users\Tim\source\repos\Timothy-Young\Words\Words\Words\obj\Debug\netcoreapp3.1\Words.csproj.CoreCompileInputs.cache
+C:\Users\Tim\source\repos\Timothy-Young\Words\Words\Words\obj\Debug\netcoreapp3.1\Words.dll
+C:\Users\Tim\source\repos\Timothy-Young\Words\Words\Words\obj\Debug\netcoreapp3.1\Words.pdb
+C:\Users\Tim\source\repos\Timothy-Young\Words\Words\Words\obj\Debug\netcoreapp3.1\Words.genruntimeconfig.cache
